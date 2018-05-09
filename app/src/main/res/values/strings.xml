@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ViewPracticaLabo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+    <string name="user">user</string>
+    <string name="pass">Pass</string>
+    <string name="go">GO</string>
+</resources>
